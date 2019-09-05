@@ -1,0 +1,10 @@
+Drak FB
+apt update && apt upgrade -y 
+pkg install git 
+pkg installed python2
+git clone https://github.com/Drakwebb/Muhammad-Teguh-.git
+pip2 install requests
+pip2 install mechanize
+cd darkfb
+python2 Drakwebb.py
+
